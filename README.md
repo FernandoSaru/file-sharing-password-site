@@ -4,7 +4,7 @@ Site where you can share archieves with or without password protection.
 Using Javascript, Express, Mongoose, Multer, Ejs, Bcrypt and Dotenv
 
 <p align="center" >
-    <img src="fileshare.gif" >
+    <img src="./fileshare.gif" >
 </p>
 
 ## Main Features
